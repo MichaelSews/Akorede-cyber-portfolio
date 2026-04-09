@@ -14,7 +14,7 @@ My journey in the tech world has led me to develop a passion for cybersecurity, 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Valdoria Scandal Investigation          | <a href="https://github.com/MichaelSews/Valdoria-Investigation">Valdoria Scandal</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| A Ransomware Investigation | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -63,7 +63,7 @@ My journey in the tech world has led me to develop a passion for cybersecurity, 
 
 ## Projects
 - [Valdoria Scandal](https://github.com/MichaelSews/Valdoria-Investigation)
-- SOC Automation Project
+- A Ransomware Investigation
 
 
 
