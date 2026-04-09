@@ -13,7 +13,7 @@ My journey in the tech world has led me to develop a passion for cybersecurity, 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Valdoria Scandal Investigation          | <a href="https://github.com/MichaelSews/Valdoria-Investigation">Valdoria Scandal</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -21,7 +21,6 @@ My journey in the tech world has led me to develop a passion for cybersecurity, 
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -44,7 +43,7 @@ My journey in the tech world has led me to develop a passion for cybersecurity, 
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -54,5 +53,5 @@ My journey in the tech world has led me to develop a passion for cybersecurity, 
 </div>
 
 ## Projects
-- Detection Lab
+- [Valdoria Scandal](https://github.com/MichaelSews/Valdoria-Investigation)
 - SOC Automation Project
