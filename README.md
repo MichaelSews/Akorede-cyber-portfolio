@@ -15,7 +15,7 @@ My journey in the tech world has led me to develop a passion for cybersecurity, 
 |-----------------------------------------------|----------------------------|
 | Insider threat Investigation          | <a href="https://github.com/MichaelSews/Valdoria-Investigation">Valdoria Scandal</a>|
 | A Ransomware Investigation | <a href="https://github.com/MichaelSews/A-Ransomware-Case">Jojo's Hospital</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Network flow/packet capture data         | <a href="https://github.com/MichaelSews/Inside-Encryptodera-An-Insider-Threat">Inside-Encryptodera-An-Insider-Threat</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
@@ -64,6 +64,7 @@ My journey in the tech world has led me to develop a passion for cybersecurity, 
 ## Projects
 - [Valdoria Scandal](https://github.com/MichaelSews/Valdoria-Investigation)
 - [A Ransomware Investigation](https://github.com/MichaelSews/A-Ransomware-Case)
+- [Insider Threat/Attack](https://github.com/MichaelSews/Inside-Encryptodera-An-Insider-Threat)
 
 
 
